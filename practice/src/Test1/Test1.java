@@ -11,5 +11,6 @@ public class Test1 {
 
 		System.out.println("Hello " + name);
 		System.out.println("Hello " + name + " again!");
+		System.out.println("Hello " + name + " again!" + " again!");
 	}
 }
